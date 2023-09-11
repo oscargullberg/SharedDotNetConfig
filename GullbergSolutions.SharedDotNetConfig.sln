@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GullbergSolutions.SharedDotNetConfig", "src\GullbergSolutions.SharedDotNetConfig\GullbergSolutions.SharedDotNetConfig.csproj", "{E4B4F6D7-B0C4-4A41-98BC-AE5BAA42EE95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GullbergSolutions.SharedDotnetConfig.AspNetDemo", "samples\GullbergSolutions.SharedDotnetConfig.AspNetDemo\GullbergSolutions.SharedDotnetConfig.AspNetDemo.csproj", "{F39DF236-E8C6-422D-83A7-7F8C792F794F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4B4F6D7-B0C4-4A41-98BC-AE5BAA42EE95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B4F6D7-B0C4-4A41-98BC-AE5BAA42EE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B4F6D7-B0C4-4A41-98BC-AE5BAA42EE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B4F6D7-B0C4-4A41-98BC-AE5BAA42EE95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F39DF236-E8C6-422D-83A7-7F8C792F794F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39DF236-E8C6-422D-83A7-7F8C792F794F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39DF236-E8C6-422D-83A7-7F8C792F794F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39DF236-E8C6-422D-83A7-7F8C792F794F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
